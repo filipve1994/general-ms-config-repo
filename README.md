@@ -16,3 +16,7 @@ public repo with general settings for all kind of microservices for config serve
 - https://medium.com/jamalsoliva/spring-cloud-config-server-with-multiples-repositories-d8aeaa5fc41c
 - https://stackoverflow.com/questions/67573510/spring-cloud-config-serving-multiple-applications-which-has-multiple-configura
 - 
+
+
+- https://docs.spring.io/spring-cloud-config/reference/server/environment-repository/overriding-properties-using-placeholders.html
+- https://docs.spring.io/spring-cloud-config/reference/server/environment-repository/overriding-properties-using-profiles.html
